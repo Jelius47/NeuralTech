@@ -21,7 +21,7 @@
    ```bash
    git clone https://github.com/your-username/chat_insight.git
    cd chat_insight
-````
+   ```
 
 2. **Install the package:**
 
@@ -123,13 +123,6 @@ chat_insight/
 
 ---
 
-## ✅ To-Do / Future Improvements
-
-* Add local caching of results
-* Support other LLM providers (Claude, Mistral, etc.)
-* Add CLI or Streamlit dashboard for easier interaction
-
----
 
 ## 🙌 Contributing
 
@@ -137,9 +130,6 @@ Pull requests are welcome! If you find bugs or want new features, please open an
 
 ---
 
-## 📝 License
-
-MIT License. See `LICENSE` file for details.
 
 ---
 
